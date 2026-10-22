@@ -12,7 +12,7 @@ A responsive café website built with HTML, CSS and vanilla JavaScript.
 - Accessible labels and reduced-motion support
 
 ## Run locally
-1. Extract the ZIP file.
+1. Download the folder.
 2. Open the `brew-and-bloom-cafe` folder in Visual Studio Code.
 3. Open `index.html` in your browser, or install the **Live Server** extension in VS Code.
 4. If using Live Server, right-click `index.html` and choose **Open with Live Server**.
